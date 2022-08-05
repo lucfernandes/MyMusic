@@ -1,5 +1,7 @@
 # MyMusic
-![test](https://github.com/bytedance/bytemd/workflows/test/badge.svg)
+![tests](https://img.shields.io/badge/Tests-10-red)
+![status](https://img.shields.io/badge/Status-stable-green)
+
 
 Fast download of your playlists music easily!
 
